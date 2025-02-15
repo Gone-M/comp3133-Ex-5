@@ -8,7 +8,7 @@ This project is a **Node.js + GraphQL** based movie management system that utili
 I started by cloning the given template repository from GitHub:
 
 ```sh
-git clone
+git clone https://github.com/Gone-M/comp3133-Ex-5.git
 cd w6_3133_nodejs_express_apollo_graphql
 ```
 
